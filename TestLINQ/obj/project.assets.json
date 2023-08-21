@@ -1,0 +1,67 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": []
+  },
+  "packageFolders": {
+    "/Users/psychehose/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/psychehose/Study/C#/TestLINQ/TestLINQ/TestLINQ.csproj",
+      "projectName": "TestLINQ",
+      "projectPath": "/Users/psychehose/Study/C#/TestLINQ/TestLINQ/TestLINQ.csproj",
+      "packagesPath": "/Users/psychehose/.nuget/packages/",
+      "outputPath": "/Users/psychehose/Study/C#/TestLINQ/TestLINQ/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/psychehose/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "/Users/psychehose/.asdf/installs/dotnet-core/6.0.411/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/Users/psychehose/.asdf/installs/dotnet-core/6.0.411/sdk/6.0.411/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

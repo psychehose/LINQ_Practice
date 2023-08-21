@@ -1,0 +1,15 @@
+/Users/psychehose/Study/C#/TestLINQ/TestLINQ/obj/Debug/net6.0/TestLINQ.csproj.AssemblyReference.cache
+/Users/psychehose/Study/C#/TestLINQ/TestLINQ/obj/Debug/net6.0/TestLINQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/psychehose/Study/C#/TestLINQ/TestLINQ/obj/Debug/net6.0/TestLINQ.AssemblyInfoInputs.cache
+/Users/psychehose/Study/C#/TestLINQ/TestLINQ/obj/Debug/net6.0/TestLINQ.AssemblyInfo.cs
+/Users/psychehose/Study/C#/TestLINQ/TestLINQ/obj/Debug/net6.0/TestLINQ.csproj.CoreCompileInputs.cache
+/Users/psychehose/Study/C#/TestLINQ/TestLINQ/bin/Debug/net6.0/TestLINQ
+/Users/psychehose/Study/C#/TestLINQ/TestLINQ/bin/Debug/net6.0/TestLINQ.deps.json
+/Users/psychehose/Study/C#/TestLINQ/TestLINQ/bin/Debug/net6.0/TestLINQ.runtimeconfig.json
+/Users/psychehose/Study/C#/TestLINQ/TestLINQ/bin/Debug/net6.0/TestLINQ.dll
+/Users/psychehose/Study/C#/TestLINQ/TestLINQ/bin/Debug/net6.0/TestLINQ.pdb
+/Users/psychehose/Study/C#/TestLINQ/TestLINQ/obj/Debug/net6.0/TestLINQ.dll
+/Users/psychehose/Study/C#/TestLINQ/TestLINQ/obj/Debug/net6.0/refint/TestLINQ.dll
+/Users/psychehose/Study/C#/TestLINQ/TestLINQ/obj/Debug/net6.0/TestLINQ.pdb
+/Users/psychehose/Study/C#/TestLINQ/TestLINQ/obj/Debug/net6.0/TestLINQ.genruntimeconfig.cache
+/Users/psychehose/Study/C#/TestLINQ/TestLINQ/obj/Debug/net6.0/ref/TestLINQ.dll
